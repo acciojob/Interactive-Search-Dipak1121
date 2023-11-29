@@ -1,1 +1,12 @@
 /*  your css code here. If applicable */
+.input{
+	border: none;
+}
+.button{
+	border: none;
+}
+.search{
+	border: 1px solid black;
+	width: fit-content;
+	padding: 5px 10px;
+}
